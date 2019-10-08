@@ -1,0 +1,11 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "Lector de QR 1/package.json",
+        "Lector de QR 2/package.json",
+        "QR con qart.js/package.json"
+      ]
+    }
+  }
+}
